@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faizonthemic</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            width: 100%;
+            text-align: center;
+        }
+        main {
+            margin: 20px;
+        }
+        a {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #0073e6;
+            color: #fff;
+            text-decoration: none;
+            text-align: center;
+            border-radius: 5px;
+        }
+        a:hover {
+            background-color: #005bb5;
+        }
+        footer {
+            margin-top: auto;
+            padding: 10px 0;
+            background-color: #333;
+            color: #fff;
+            width: 100%;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Faizonthemic</h1>
+    </header>
+    <main>
+        <a href="https://open.spotify.com/artist/1VQtxw6OgxYtgtPqRtSLJf?si=fnyEbyvfTXSzs1JlQ37YEw" target="_blank">Spotify</a>
+        <a href="https://youtube.com/@faizulhaq?si=vwpyYAmg795pnzwy" target="_blank">YouTube</a>
+        <a href="https://www.instagram.com/faizonthemic?igsh=cmM0Ynd4NGc1MWN2" target="_blank">Instagram</a>
+    </main>
+    <footer>
+        <p>&copy; 2024 Faizonthemic. All rights reserved.</p>
+    </footer>
+</body>
+</html>
